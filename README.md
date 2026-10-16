@@ -19,7 +19,7 @@
 
 | STT | Kiến trúc hệ thống | CSDL / Nguồn dữ liệu | Sơ đồ ERD / Phác thảo | Thành viên & phân công (nếu nhóm) | Link GitHub dự án |
 |:---:|---|---|---|---|---|
-| 1 | Dashboard Web - Python, Streamlit | CSV/Excel, dự kiến SQLite | Đang thiết kế | — | Cá nhân | — | https://github.com/gieminhh/Visualization-of-rainfall-and-flood-data-in-Central-Vietnam---Vietnam |
+| 1 | Dashboard Web - Python, Streamlit | CSV/Excel, dự kiến SQLite | Đang thiết kế | Cá nhân | https://github.com/gieminhh/Visualization-of-rainfall-and-flood-data-in-Central-Vietnam---Vietnam | 
 | 2 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 3 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 4 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
