@@ -23,7 +23,7 @@
 | 1 | Website bán đồ ăn, đồ uống - C#, ASP.NET Core MVC | SQL Server, dự kiến Entity Framework Core | Đang thiết kế | Cá nhân | Chưa có |
 | 3 | C#, ASP.NET Core MVC | SQL sever | đang thiết kế | — | Chưa có |
 | 4 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
-| 5 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
+| 5 | Website đặt tour du lịch - PHP, Laravel | MySQL, dự kiến Laravel Eloquent ORM | Đang thiết kế | — | Chưa có |
 | 6 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 7 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 8 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
