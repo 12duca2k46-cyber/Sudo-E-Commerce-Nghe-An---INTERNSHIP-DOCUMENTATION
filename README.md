@@ -11,7 +11,7 @@
 | 3 | Phạm Ngọc Bảo | [Xây dựng website quản lý điểm thi trung học phổ thông] | Cá nhân | [Website ] | [Đang nghiên cứu] | đã nộp | [TV03](de-tai/TV03.md) |
 | 4 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV04](de-tai/TV04.md) |
 | 5 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV05](de-tai/TV05.md) |
-| 6 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV06](de-tai/TV06.md) |
+| 6 | [Nguyễn Thị Hoàng Anh] | [Phần mềm quản lý hàng đợi phòng khám] | Cá nhân  | [Ứng dụng] | [Đang nghiên cứu] | Đã nộp | [TV06](de-tai/TV06.md) |
 | 7 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV07](de-tai/TV07.md) |
 | 8 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV08](de-tai/TV08.md) |
 
@@ -24,7 +24,7 @@
 | 3 | C#, ASP.NET Core MVC | SQL sever | đang thiết kế | — | Chưa có |
 | 4 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 5 | Website đặt tour du lịch - PHP, Laravel | MySQL, dự kiến Laravel Eloquent ORM | Đang thiết kế | — | Chưa có |
-| 6 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
+| 6 | C#, ADO.NET | SQL sever | Đang thiết kế |Cá nhân | — | Chưa có |
 | 7 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 8 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 
