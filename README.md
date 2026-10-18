@@ -9,7 +9,7 @@
 | 1 | Cao Minh Gia Minh | Trực quan hóa dữ liệu mưa lũ Miền Trung | Cá nhân  | Website | Đang nghiên cứu | Đã nộp | [TV01](de-tai/TV01.md) |
 | 2 | Phan Đức Cảnh | wed bán đồ ăn / đồ uống  | Cá nhân  | [Website] | [Đang nghiên cứu] | Đã nộp | [TV02](de-tai/TV02.md) |
 | 3 | Phạm Ngọc Bảo | [Xây dựng website quản lý điểm thi trung học phổ thông] | Cá nhân | [Website ] | [Đang nghiên cứu] | đã nộp | [TV03](de-tai/TV03.md) |
-| 4 | Nguyễn Văn Đức | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV04](de-tai/TV04.md) |
+| 4 | Nguyễn Văn Đức | [Xây dựng website bán trang sức ] | Cá nhân  | [Website ] | [Đang nghiên cứu] | đã nộp| [TV04](de-tai/TV04.md) |
 | 5 | Đào Quang Huy |  Xây dựng website đặt tour du lịch | Cá nhân | Website | [Đang nghiên cứu] | Đã nộp | [TV05](de-tai/TV05.md) |
 | 6 | [Nguyễn Thị Hoàng Anh] | [Phần mềm quản lý hàng đợi phòng khám] | Cá nhân  | [Ứng dụng] | [Đang nghiên cứu] | Đã nộp | [TV06](de-tai/TV06.md) |
 | 7 | Nguyễn Thị Khánh Huyền | Xây dựng website quản lý công việc và theo dõi tiến độ dự án | Cá nhân | Website | [Đang nghiên cứu] | Đã nộp | [TV07](de-tai/TV07.md) |
