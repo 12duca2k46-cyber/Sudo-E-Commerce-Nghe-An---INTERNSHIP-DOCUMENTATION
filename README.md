@@ -12,7 +12,7 @@
 | 4 | Nguyễn Văn Đức | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV04](de-tai/TV04.md) |
 | 5 | Đào Quang Huy |  Xây dựng website đặt tour du lịch | Cá nhân | Website | [Đang nghiên cứu] | Đã nộp | [TV05](de-tai/TV05.md) |
 | 6 | [Nguyễn Thị Hoàng Anh] | [Phần mềm quản lý hàng đợi phòng khám] | Cá nhân  | [Ứng dụng] | [Đang nghiên cứu] | Đã nộp | [TV06](de-tai/TV06.md) |
-| 7 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV07](de-tai/TV07.md) |
+| 7 | Nguyễn Thị Khánh Huyền | Xây dựng website quản lý công việc và theo dõi tiến độ dự án | Cá nhân | Website | [Đang nghiên cứu] | Đã nộp | [TV07](de-tai/TV07.md) |
 | 8 | [Họ tên] | [Tên đề tài] | Cá nhân / Nhóm / Chưa chốt | [Website / App / Dashboard / Khác] | [Đang nghiên cứu] | Chưa nộp | [TV08](de-tai/TV08.md) |
 
 ## 2. Theo dõi chuẩn bị kỹ thuật
@@ -25,6 +25,6 @@
 | 4 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 | 5 | Website đặt tour du lịch - PHP, Laravel | MySQL, dự kiến Laravel Eloquent ORM | Đang thiết kế | — | Chưa có |
 | 6 | C#, ADO.NET | SQL sever | Đang thiết kế |Cá nhân | — | Chưa có |
-| 7 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
+| 7 | Website quản lý công việc và theo dõi tiến độ dự án - JavaScript, React, Python, Django REST Framework | PostgreSQL | Đang thiết kế | Cá nhân | Chưa có |
 | 8 | Chưa xác định | Chưa xác định | Chưa có | — | Chưa có |
 
